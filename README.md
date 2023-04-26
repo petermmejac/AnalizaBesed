@@ -7,3 +7,4 @@ V okviru tega projekta se bomo ukvarjali z analizo besed.
 * Peter Mandelj Mejač
 * Tilen Marc
 * Mare iz podgorja
+* Lojzka iz Šentjurške Gore
